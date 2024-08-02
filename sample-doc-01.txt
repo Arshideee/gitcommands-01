@@ -1,0 +1,16 @@
+git -v
+git init
+git status
+git add .
+git commit -m "msg"
+git add -A
+git add docname
+git remote
+git push origin branchname
+git branch
+git branch branchname
+git checkout branchname
+git checkout -b branchname
+git fetch
+git pull
+git merge branchname
